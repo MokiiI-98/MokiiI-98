@@ -19,7 +19,7 @@
  
  
  
- ![Snake animation](https://github.com/rafaballerini/MokiiI-98/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/MokiiI-98/MokiiI-98/blob/output/github-contribution-grid-snake.svg)
 
  
   </div></br>
