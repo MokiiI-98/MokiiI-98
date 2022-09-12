@@ -17,8 +17,9 @@
 <div><br>
  <a href="https://instagram.com/mokiil_98" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
  
- 
+ <br>
  
  ![Snake animation](https://github.com/rafaballerini/MokiiI-98/blob/output/github-contribution-grid-snake.svg)
+ </br>
  
   </div></br>
