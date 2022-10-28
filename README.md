@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mokiil_98)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-lima-barbosa-470ba2244/)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MokiiI-98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?MokiiI-98=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso 
 <div style="display:inline_block">
