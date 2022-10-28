@@ -15,7 +15,6 @@
 <img align="center"alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img align="center"alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MokiiI-98&layout=compact)](https://github.com/MokiiI-98/github-readme-stats)
 ![Snake animation](https://github.com/MokiiI-98/MokiiI-98/blob/output/github-contribution-grid-snake.svg)
 </div>
  Apaixonado por linguagens de programação e informática.
