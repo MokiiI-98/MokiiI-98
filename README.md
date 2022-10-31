@@ -1,8 +1,10 @@
 ### OPA luan aki , desenvolvedor júnior e entusiasta de tecnologia✌️
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MokiiI-98&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mokiil_98)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-lima-barbosa-470ba2244/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MokiiI-98&show_icons=true)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MokiiI-98)](https://github.com/MokiiI-98/github-readme-stats)
 
