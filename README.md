@@ -28,4 +28,4 @@
 
 ![Snake animation](https://github.com/MokiiI-98/MokiiI-98/blob/output/github-contribution-grid-snake.svg)
 </div>
- Apaixonado por linguagens de programação e informática.
+ 
